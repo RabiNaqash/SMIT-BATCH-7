@@ -1,0 +1,61 @@
+body{
+    background-image: url('Images/Pizza\ 4.jpg');
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    
+  
+}
+.hello{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding: 7px;
+    border: 1px solid black;
+   margin-left: 20%;
+   margin-right: 20%;
+   box-sizing: border-box;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+.name{
+    border: 1px solid black;
+    padding-left: 32px;
+    padding-right: 36px;
+    background-color: white;
+    opacity: 0.8;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+h1{
+    color: red;
+}
+img{
+    border-radius: 35px;
+}
+.menu{
+    margin: 0px;
+    padding: 0px;
+    font-size: large;
+    color: aliceblue;
+    word-spacing: 10px;
+    text-decoration: none;
+
+    border-radius: 10px
+}
+.image{
+   border-radius: 25px;
+}
+
+a{ 
+    text-decoration: none;
+    color: red;
+    border: 2px solid red;
+    border-radius: 7px;
+    padding: 1px;
+    font-size: medium;
+    background-color: white;
+}
